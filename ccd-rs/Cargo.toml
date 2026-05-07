@@ -1,0 +1,8 @@
+[package]
+name = "ccd"
+version = "0.1.0"
+edition = "2021"
+description = "Collision Detection Library (GJK and MPR algorithms)"
+license = "BSD-2-Clause"
+
+[dependencies]
