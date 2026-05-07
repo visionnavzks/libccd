@@ -6,3 +6,6 @@ description = "Collision Detection Library (GJK and MPR algorithms)"
 license = "BSD-2-Clause"
 
 [dependencies]
+
+[dev-dependencies]
+macroquad = "0.4"
